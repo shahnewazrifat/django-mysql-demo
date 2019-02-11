@@ -1,5 +1,5 @@
 --- # devspaces.yml
-name: django-mysql-demo
+name: django
 description: Django MySQL demo aplication
 
 # If you want to use a different Dockerfile for your DevSpace, provide the path
