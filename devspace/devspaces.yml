@@ -37,7 +37,7 @@ environment-vars:
   - name: PYTHON_PIP_VERSION
     value: 3.6.5
     description: PIP version
-    shared: 10.0.1
+    shared: Yes
 
 # When you bind your DevSpace to a local directory, the files will be synchronized
 # betewen your workstation and the /data directory in your DevSpace container.
